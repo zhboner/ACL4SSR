@@ -384,14 +384,14 @@ payload:
   - DOMAIN-SUFFIX,zmzfile.com
 
   # Private Tracker
-  - DOMAIN-KEYWORD,announce
-  - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
+  # - DOMAIN-KEYWORD,announce
+  # - DOMAIN-KEYWORD,torrent
+  # - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,animebytes.tv
   - DOMAIN-SUFFIX,animetorrents.me
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,beitai.pt
-  - DOMAIN-SUFFIX,bittorrent.com
+  # - DOMAIN-SUFFIX,bittorrent.com
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
@@ -403,7 +403,7 @@ payload:
   - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,hdtime.org
   - DOMAIN-SUFFIX,hdzone.me
-  - DOMAIN-SUFFIX,icetorrent.org
+  # - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,jpopsuki.eu
   - DOMAIN-SUFFIX,keepfrds.com
   - DOMAIN-SUFFIX,leaguehd.com
@@ -617,7 +617,7 @@ payload:
   - DOMAIN-SUFFIX,quanmin.tv
   - DOMAIN-SUFFIX,qunar.com
   - DOMAIN-SUFFIX,qunarzz.com
-  - DOMAIN-SUFFIX,rarbg.to
+  # - DOMAIN-SUFFIX,rarbg.to
   - DOMAIN-SUFFIX,repaik.com
   - DOMAIN-SUFFIX,rrmj.tv
   - DOMAIN-SUFFIX,ruguoapp.com
