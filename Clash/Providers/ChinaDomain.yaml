@@ -296,17 +296,7 @@ payload:
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
   # SteamCN
-<<<<<<< HEAD
-  - DOMAIN-SUFFIX,csgo.wmsj.cn
-  - DOMAIN-SUFFIX,dl.steam.ksyna.com
-  - DOMAIN-SUFFIX,dota2.wmsj.cn
-  - DOMAIN-SUFFIX,st.dl.bscstorage.net
-  - DOMAIN-SUFFIX,st.dl.eccdnx.com
-  - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
-=======
   - DOMAIN-SUFFIX,cm.steampowered.com
->>>>>>> 093c3cdce886dd288f264cbb8f043ebe7d21f42c
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steampowered.com.8686c.com
