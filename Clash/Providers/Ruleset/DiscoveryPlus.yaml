@@ -1,0 +1,6 @@
+payload:
+  # 内容：Discovery Plus
+  # 数量：3条
+  - DOMAIN-SUFFIX,discovery.com
+  - DOMAIN-SUFFIX,disco-api.com
+  - DOMAIN-SUFFIX,uplynk.com
