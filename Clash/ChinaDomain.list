@@ -310,26 +310,6 @@ DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
-# SteamCN
-<<<<<<< HEAD
-DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dl.steam.ksyna.com
-DOMAIN-SUFFIX,dota2.wmsj.cn
-DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
-=======
-DOMAIN-SUFFIX,cm.steampowered.com
->>>>>>> 093c3cdce886dd288f264cbb8f043ebe7d21f42c
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
-
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
@@ -620,10 +600,6 @@ DOMAIN-SUFFIX,qiushibaike.com
 DOMAIN-SUFFIX,quanmin.tv
 DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,qunarzz.com
-<<<<<<< HEAD
-# DOMAIN-SUFFIX,rarbg.to
-=======
->>>>>>> 093c3cdce886dd288f264cbb8f043ebe7d21f42c
 DOMAIN-SUFFIX,repaik.com
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,runoob.com
