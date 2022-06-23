@@ -24,6 +24,8 @@ payload:
   - DOMAIN-KEYWORD,vpimg
   - DOMAIN-KEYWORD,xiami
   - DOMAIN-KEYWORD,xiaomi
+  - DOMAIN-KEYWORD,cmbimg
+  - DOMAIN-KEYWORD,cmbchina
 
   # 360
   - DOMAIN-SUFFIX,360.com
