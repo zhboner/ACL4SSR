@@ -679,4 +679,6 @@ payload:
   - DOMAIN-SUFFIX,zhongsou.com
   - DOMAIN-SUFFIX,zhuihd.com
 
+  # My Custom Domains
   - DOMAIN-SUFFIX,csair.com
+  - DOMAIN-SUFFIX,gamersky.com
