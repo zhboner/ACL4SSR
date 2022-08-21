@@ -1200,7 +1200,6 @@
 (^|\.)criteo\.com$
 (^|\.)criteo\.net$
 (^|\.)csbew\.com$
-(^|\.)demdex\.net$
 (^|\.)directrev\.com$
 (^|\.)dumedia\.ru$
 (^|\.)effectivemeasure\.com$
@@ -1531,7 +1530,6 @@
 (^|\.)\w*ccgslb\w*\.\w*$
 (^|\.)\w*chinacache\w*\.\w*$
 (^|\.)\w*duobao\w*\.\w*$
-(^|\.)\w*duolingo\w*\.\w*$
 (^|\.)\w*jdpay\w*\.\w*$
 (^|\.)\w*moke\w*\.\w*$
 (^|\.)\w*qhimg\w*\.\w*$
