@@ -65,7 +65,6 @@
 (^|\.)\w*ccgslb\w*\.\w*$
 (^|\.)\w*chinacache\w*\.\w*$
 (^|\.)\w*duobao\w*\.\w*$
-(^|\.)\w*duolingo\w*\.\w*$
 (^|\.)\w*jdpay\w*\.\w*$
 (^|\.)\w*moke\w*\.\w*$
 (^|\.)\w*qhimg\w*\.\w*$
@@ -780,6 +779,7 @@
 
 #**********************************************************************
 # 本地/局域网地址
+^(.*\.)?lan$
 ^(.*\.)?local$
 ^(.*\.)?localhost$
 ^(.*\.)?ip6-localhost$
@@ -7264,7 +7264,6 @@
 (^|\.)cloudfront\.net$
 (^|\.)comodoca\.com$
 (^|\.)daum\.net$
-(^|\.)demdex\.net$
 (^|\.)deskconnect\.com$
 (^|\.)disqus\.com$
 (^|\.)disquscdn\.com$
