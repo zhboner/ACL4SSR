@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2022-11-26 16:25:11
-# 数量：14817条
+# 更新：2022-11-27 21:50:28
+# 数量：14816条
 
 DOMAIN-SUFFIX,0-owazo4.net.zooplus.de
 DOMAIN-SUFFIX,0.data.net.zooplus.de
@@ -2513,6 +2513,7 @@ DOMAIN-SUFFIX,analytics.yola.net
 DOMAIN-SUFFIX,analytics.yolacdn.net
 DOMAIN-SUFFIX,analytics.yomedia.vn
 DOMAIN-SUFFIX,analytics.yourbankcard.com
+DOMAIN-SUFFIX,analytics.yugen.to
 DOMAIN-SUFFIX,analytics.ziftsolutions.com
 DOMAIN-SUFFIX,analytics00.meride.tv
 DOMAIN-SUFFIX,analytics2-meride-tv.akamaized.net
@@ -2558,7 +2559,6 @@ DOMAIN-SUFFIX,apcinfo.motorolasolutions.com
 DOMAIN-SUFFIX,ape-tagit.timeinc.net
 DOMAIN-SUFFIX,apeagle.io
 DOMAIN-SUFFIX,apenterprise.io
-DOMAIN-SUFFIX,apester.com/event
 DOMAIN-SUFFIX,api.autopilothq.com
 DOMAIN-SUFFIX,api.bunzlaucastle.com
 DOMAIN-SUFFIX,api.decentralize.today
@@ -5664,7 +5664,6 @@ DOMAIN-SUFFIX,hevqaz.submarino.com.br
 DOMAIN-SUFFIX,hfc195b.com
 DOMAIN-SUFFIX,hfd.bridgetowermedia.com
 DOMAIN-SUFFIX,hgf4.zanzicar.fr
-DOMAIN-SUFFIX,hh.ru/analytics
 DOMAIN-SUFFIX,hhbxcs.tylko.com
 DOMAIN-SUFFIX,hhhedv.luxauto.lu
 DOMAIN-SUFFIX,hht8m6w8mnug.quine.sh
@@ -7159,7 +7158,6 @@ DOMAIN-SUFFIX,megadata.co.kr
 DOMAIN-SUFFIX,melodicminute.com
 DOMAIN-SUFFIX,memopilot.com
 DOMAIN-SUFFIX,memorycobweb.com
-DOMAIN-SUFFIX,mercadolibre.com/tracks
 DOMAIN-SUFFIX,meremark.com
 DOMAIN-SUFFIX,meriwest.actonservice.com
 DOMAIN-SUFFIX,message.alldata.com
@@ -8555,6 +8553,7 @@ DOMAIN-SUFFIX,pulse.delta.com
 DOMAIN-SUFFIX,pumpkin.abine.com
 DOMAIN-SUFFIX,punyplant.com
 DOMAIN-SUFFIX,purchasesuggestion.com
+DOMAIN-SUFFIX,push-sdk.net
 DOMAIN-SUFFIX,pushmaster-cdn.xyz
 DOMAIN-SUFFIX,puzzlingproperty.com
 DOMAIN-SUFFIX,pv.hd.sohu.com

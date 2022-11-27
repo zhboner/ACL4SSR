@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-  # 更新：2022-11-26 16:25:03
-  # 数量：8481条
+  # 更新：2022-11-27 21:50:16
+  # 数量：8497条
 
   - DOMAIN-SUFFIX,001adafg.xyz
   - DOMAIN-SUFFIX,0024aaaa.com
@@ -1086,6 +1086,7 @@ payload:
   - DOMAIN-SUFFIX,aisastore.club
   - DOMAIN-SUFFIX,aisdd.xyz
   - DOMAIN-SUFFIX,aishangcan.com
+  - DOMAIN-SUFFIX,aiupiyd.cn
   - DOMAIN-SUFFIX,aiwen.cc
   - DOMAIN-SUFFIX,aixuntupian.oss-cn-hongkong.aliyuncs.com
   - DOMAIN-SUFFIX,aixuyoupin.cn
@@ -2466,6 +2467,7 @@ payload:
   - DOMAIN-SUFFIX,egyfgsq.cn
   - DOMAIN-SUFFIX,ehprnuo.cn
   - DOMAIN-SUFFIX,eidccepu.cyou
+  - DOMAIN-SUFFIX,eidphap.cn
   - DOMAIN-SUFFIX,eidsign.com.cn
   - DOMAIN-SUFFIX,eisafniw.space
   - DOMAIN-SUFFIX,eiya.net
@@ -4325,6 +4327,7 @@ payload:
   - DOMAIN-SUFFIX,kpshx.douguo.com
   - DOMAIN-SUFFIX,kq7it3c6.club
   - DOMAIN-SUFFIX,kq7it3c6.xyz
+  - DOMAIN-SUFFIX,kq7k.icu
   - DOMAIN-SUFFIX,kqirf.xyz
   - DOMAIN-SUFFIX,kqnggnsd.fun
   - DOMAIN-SUFFIX,kqvkvc3.com
@@ -4353,6 +4356,7 @@ payload:
   - DOMAIN-SUFFIX,kuajingtao.cc
   - DOMAIN-SUFFIX,kuamei.cloud
   - DOMAIN-SUFFIX,kuangbang.ltd
+  - DOMAIN-SUFFIX,kufmbwm.cn
   - DOMAIN-SUFFIX,kukanlm-lubu1.com
   - DOMAIN-SUFFIX,kukanlm-my1.com
   - DOMAIN-SUFFIX,kukanlm-youeryuan.com
@@ -4433,6 +4437,7 @@ payload:
   - DOMAIN-SUFFIX,laoliulaoliu.com
   - DOMAIN-SUFFIX,laoma.ltd
   - DOMAIN-SUFFIX,laoyg.com
+  - DOMAIN-SUFFIX,lapsmnl.cyou
   - DOMAIN-SUFFIX,laura.fun
   - DOMAIN-SUFFIX,lauvlku.cn
   - DOMAIN-SUFFIX,lawful.wang
@@ -4460,6 +4465,7 @@ payload:
   - DOMAIN-SUFFIX,legitimate.wang
   - DOMAIN-SUFFIX,leixigroup.com
   - DOMAIN-SUFFIX,lejlb.com
+  - DOMAIN-SUFFIX,lejso.com
   - DOMAIN-SUFFIX,leletuitui.com
   - DOMAIN-SUFFIX,lemoncai.xyz
   - DOMAIN-SUFFIX,lencool.cn
@@ -4844,6 +4850,7 @@ payload:
   - DOMAIN-SUFFIX,mgwcn.com
   - DOMAIN-SUFFIX,mhdjkx.cn
   - DOMAIN-SUFFIX,mhdnspro.com
+  - DOMAIN-SUFFIX,mhhsa.xyz
   - DOMAIN-SUFFIX,mhi9da.cn
   - DOMAIN-SUFFIX,mhqx.store
   - DOMAIN-SUFFIX,mhsksgj.cn
@@ -5267,6 +5274,7 @@ payload:
   - DOMAIN-SUFFIX,oaepnba.cn
   - DOMAIN-SUFFIX,oajxkah.cn
   - DOMAIN-SUFFIX,oanlisgk.fun
+  - DOMAIN-SUFFIX,oapsmnk.cyou
   - DOMAIN-SUFFIX,ob3o3r7.cn
   - DOMAIN-SUFFIX,obazhaheik.top
   - DOMAIN-SUFFIX,obeip.com
@@ -5508,6 +5516,7 @@ payload:
   - DOMAIN-SUFFIX,pmdatabase.xyz
   - DOMAIN-SUFFIX,pmthinktank.shop
   - DOMAIN-SUFFIX,pndagz.com
+  - DOMAIN-SUFFIX,pnesemr.cn
   - DOMAIN-SUFFIX,pnirrb.cn
   - DOMAIN-SUFFIX,pnrqz.xyz
   - DOMAIN-SUFFIX,pnslejs.cn
@@ -6032,6 +6041,7 @@ payload:
   - DOMAIN-SUFFIX,s1wq.top
   - DOMAIN-SUFFIX,s4ls9.top
   - DOMAIN-SUFFIX,s4zqj3m.cn
+  - DOMAIN-SUFFIX,s93isp.top
   - DOMAIN-SUFFIX,s9o.co
   - DOMAIN-SUFFIX,s9w.cc
   - DOMAIN-SUFFIX,sa.sina.cn
@@ -6230,6 +6240,7 @@ payload:
   - DOMAIN-SUFFIX,simajl.top
   - DOMAIN-SUFFIX,simaoer.com
   - DOMAIN-SUFFIX,simi1234.com
+  - DOMAIN-SUFFIX,simi2345.com
   - DOMAIN-SUFFIX,simi345.me
   - DOMAIN-SUFFIX,simi456.me
   - DOMAIN-SUFFIX,simi567.me
@@ -6249,6 +6260,7 @@ payload:
   - DOMAIN-SUFFIX,sitemobia.com
   - DOMAIN-SUFFIX,sjaidu.com
   - DOMAIN-SUFFIX,sjbaiduadv1.redou.com
+  - DOMAIN-SUFFIX,sjcm.fun
   - DOMAIN-SUFFIX,sjeklqx.cn
   - DOMAIN-SUFFIX,sjgnskf.com
   - DOMAIN-SUFFIX,sjjk.ltd
@@ -7037,6 +7049,7 @@ payload:
   - DOMAIN-SUFFIX,vptjabo.cn
   - DOMAIN-SUFFIX,vq7736.com
   - DOMAIN-SUFFIX,vqdjcy.com
+  - DOMAIN-SUFFIX,vqjxlie.cn
   - DOMAIN-SUFFIX,vqlrwgj.cn
   - DOMAIN-SUFFIX,vrhug.cn
   - DOMAIN-SUFFIX,vrmgwvz.cn
@@ -7393,6 +7406,7 @@ payload:
   - DOMAIN-SUFFIX,x99skiu.top
   - DOMAIN-SUFFIX,xa9t.com
   - DOMAIN-SUFFIX,xabaitai.com
+  - DOMAIN-SUFFIX,xafc.xyz
   - DOMAIN-SUFFIX,xafengzhij.xyz
   - DOMAIN-SUFFIX,xahydp.cn
   - DOMAIN-SUFFIX,xakywl.xyz
@@ -7825,6 +7839,7 @@ payload:
   - DOMAIN-SUFFIX,yidulu.cn
   - DOMAIN-SUFFIX,yifenghuyu.com
   - DOMAIN-SUFFIX,yigesi.top
+  - DOMAIN-SUFFIX,yihehe.xyz
   - DOMAIN-SUFFIX,yihoo.biz
   - DOMAIN-SUFFIX,yijfdsu.cn
   - DOMAIN-SUFFIX,yijia2009.com
@@ -8151,6 +8166,7 @@ payload:
   - DOMAIN-SUFFIX,zgctig.cn
   - DOMAIN-SUFFIX,zgcydvu.cn
   - DOMAIN-SUFFIX,zgfckf.mobi
+  - DOMAIN-SUFFIX,zgfdczj.mobi
   - DOMAIN-SUFFIX,zgfushi.mobi
   - DOMAIN-SUFFIX,zgktxx.com
   - DOMAIN-SUFFIX,zglecc.com
