@@ -1,5 +1,5 @@
 # 内容：AmazonIp
-# 数量：1316条
+# 数量：1319条
 IP-CIDR,3.0.0.0/15,no-resolve
 IP-CIDR,3.2.0.0/24,no-resolve
 IP-CIDR,3.2.2.0/23,no-resolve
@@ -888,7 +888,6 @@ IP-CIDR,54.239.116.0/22,no-resolve
 IP-CIDR,54.239.120.0/21,no-resolve
 IP-CIDR,54.239.128.0/18,no-resolve
 IP-CIDR,54.239.192.0/19,no-resolve
-IP-CIDR,54.240.17.0/24,no-resolve
 IP-CIDR,54.240.128.0/18,no-resolve
 IP-CIDR,54.240.192.0/21,no-resolve
 IP-CIDR,54.240.200.0/24,no-resolve
@@ -1090,6 +1089,9 @@ IP-CIDR,108.136.0.0/14,no-resolve
 IP-CIDR,108.156.0.0/14,no-resolve
 IP-CIDR,108.166.224.0/19,no-resolve
 IP-CIDR,108.175.48.0/20,no-resolve
+IP-CIDR,111.13.171.128/25,no-resolve
+IP-CIDR,111.13.185.32/27,no-resolve
+IP-CIDR,111.13.185.64/27,no-resolve
 IP-CIDR,116.129.226.0/25,no-resolve
 IP-CIDR,116.129.226.128/26,no-resolve
 IP-CIDR,118.193.97.64/26,no-resolve
@@ -1119,6 +1121,7 @@ IP-CIDR,136.18.50.0/23,no-resolve
 IP-CIDR,140.179.0.0/16,no-resolve
 IP-CIDR,142.4.160.0/24,no-resolve
 IP-CIDR,142.4.161.0/28,no-resolve
+IP-CIDR,142.4.161.16/29,no-resolve
 IP-CIDR,142.4.177.0/24,no-resolve
 IP-CIDR,143.204.0.0/16,no-resolve
 IP-CIDR,144.220.0.0/16,no-resolve

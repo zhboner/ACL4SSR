@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2023-01-08 12:23:46
-# 数量：14891条
+# 更新：2023-01-15 22:02:24
+# 数量：14909条
 
 DOMAIN-SUFFIX,0-owazo4.net.zooplus.de
 DOMAIN-SUFFIX,0.data.net.zooplus.de
@@ -1550,6 +1550,7 @@ DOMAIN-SUFFIX,act.wernerelectric.com
 DOMAIN-SUFFIX,actie.milieudefensie.nl
 DOMAIN-SUFFIX,action.advisorycloud.com
 DOMAIN-SUFFIX,action.logixfiber.com
+DOMAIN-SUFFIX,actioniq.mr-in.com
 DOMAIN-SUFFIX,activation.depop.com
 DOMAIN-SUFFIX,active-redirect-sslchefbeanstalkchef-marketing.net.zooplus.it
 DOMAIN-SUFFIX,active-redirect-sslpaymentreco.nshw.hwcdnvision.testbedsystem.net.zooplus.it
@@ -2307,6 +2308,7 @@ DOMAIN-SUFFIX,analytics.kaggle.io
 DOMAIN-SUFFIX,analytics.kaltura.com
 DOMAIN-SUFFIX,analytics.kapost.com
 DOMAIN-SUFFIX,analytics.kerns.co
+DOMAIN-SUFFIX,analytics.kkb.com.tr
 DOMAIN-SUFFIX,analytics.kraken.com
 DOMAIN-SUFFIX,analytics.krieselreihe.com
 DOMAIN-SUFFIX,analytics.kukla.club
@@ -2544,6 +2546,7 @@ DOMAIN-SUFFIX,annoyedfifth.com
 DOMAIN-SUFFIX,annoyingacoustics.com
 DOMAIN-SUFFIX,annwwu.guitarcenter.com
 DOMAIN-SUFFIX,anon-stats.eff.org
+DOMAIN-SUFFIX,anonstat.pw
 DOMAIN-SUFFIX,ans.avast.com
 DOMAIN-SUFFIX,ans.milb.com
 DOMAIN-SUFFIX,ans.mlb.com
@@ -3137,6 +3140,7 @@ DOMAIN-SUFFIX,byxcbk.ipekevi.com
 DOMAIN-SUFFIX,bzcuta.titleboxing.com
 DOMAIN-SUFFIX,bzqxze.remixshop.com
 DOMAIN-SUFFIX,c.amazinglybrilliant.com.au
+DOMAIN-SUFFIX,c.bazo.io
 DOMAIN-SUFFIX,c.bigmir.net
 DOMAIN-SUFFIX,c.gazetevatan.com
 DOMAIN-SUFFIX,c.holmesmind.com
@@ -3526,6 +3530,7 @@ DOMAIN-SUFFIX,collect.cloudsponge.com
 DOMAIN-SUFFIX,collect.elvia.ch
 DOMAIN-SUFFIX,collect.helsana-preprod.ch
 DOMAIN-SUFFIX,collect.helsana.ch
+DOMAIN-SUFFIX,collect.hollisterco.com
 DOMAIN-SUFFIX,collect.iteam-dress.com
 DOMAIN-SUFFIX,collect.meilleurtaux.com
 DOMAIN-SUFFIX,collect.rewardstyle.com
@@ -3567,6 +3572,7 @@ DOMAIN-SUFFIX,combbit.com
 DOMAIN-SUFFIX,combclover.com
 DOMAIN-SUFFIX,comfortablecheese.com
 DOMAIN-SUFFIX,comm.toro.com
+DOMAIN-SUFFIX,commerce.bing.com
 DOMAIN-SUFFIX,commercial.davey.com
 DOMAIN-SUFFIX,commonalmanac.com
 DOMAIN-SUFFIX,commonswing.com
@@ -4451,6 +4457,7 @@ DOMAIN-SUFFIX,download.dnvgl.com
 DOMAIN-SUFFIX,downloads.coface.com
 DOMAIN-SUFFIX,downpayment.fernsby.com
 DOMAIN-SUFFIX,downtowndirection.com
+DOMAIN-SUFFIX,dp.coinbase.com
 DOMAIN-SUFFIX,dp.shoprunner.com
 DOMAIN-SUFFIX,dpckzt.mesrecettesfaciles.fr
 DOMAIN-SUFFIX,dpdety.jingus.com
@@ -5305,10 +5312,12 @@ DOMAIN-SUFFIX,fpaxu.net
 DOMAIN-SUFFIX,fpb8.esce.fr
 DOMAIN-SUFFIX,fpcdn.io
 DOMAIN-SUFFIX,fphfdx.partswarehouse.com
+DOMAIN-SUFFIX,fpnpmcdn.net
 DOMAIN-SUFFIX,fpptmv.mrmarvis.co.uk
 DOMAIN-SUFFIX,fprfvt.recambioscoches.es
 DOMAIN-SUFFIX,fpt.microsoft.com
 DOMAIN-SUFFIX,fptls.com
+DOMAIN-SUFFIX,fptls2.com
 DOMAIN-SUFFIX,fpxau.net
 DOMAIN-SUFFIX,fpxewa.ilmeteo.it
 DOMAIN-SUFFIX,fq9vy0muyqi3.www.madrigalmaps.com
@@ -8151,6 +8160,7 @@ DOMAIN-SUFFIX,p.placed.com
 DOMAIN-SUFFIX,p.pmu.fr
 DOMAIN-SUFFIX,p.ryanhalliday.com
 DOMAIN-SUFFIX,p.tencentmind.com
+DOMAIN-SUFFIX,p.typekit.net
 DOMAIN-SUFFIX,p.versacommerce.de
 DOMAIN-SUFFIX,p.victoria.dev
 DOMAIN-SUFFIX,p.wren.co
@@ -8306,6 +8316,7 @@ DOMAIN-SUFFIX,pixel-a.basis.net
 DOMAIN-SUFFIX,pixel-tracker.com
 DOMAIN-SUFFIX,pixel.ampry.com
 DOMAIN-SUFFIX,pixel.anyclip.com
+DOMAIN-SUFFIX,pixel.archipro.co.nz
 DOMAIN-SUFFIX,pixel.archive.is
 DOMAIN-SUFFIX,pixel.archive.ph
 DOMAIN-SUFFIX,pixel.archive.vn
@@ -8546,6 +8557,7 @@ DOMAIN-SUFFIX,private.roche.com
 DOMAIN-SUFFIX,privatebackendsntor-data.signed.search.authtoolbar-elasticbeanstalk.net.zooplus.de
 DOMAIN-SUFFIX,processor.asccommunications.com
 DOMAIN-SUFFIX,procroanalytics.com
+DOMAIN-SUFFIX,prod-events.nykaa.com
 DOMAIN-SUFFIX,prod.ew.srp.navigacloud.com
 DOMAIN-SUFFIX,proditor.sparda.de
 DOMAIN-SUFFIX,productivepear.com
@@ -8615,6 +8627,7 @@ DOMAIN-SUFFIX,pxmzlk.redfin.com
 DOMAIN-SUFFIX,pxsg.pandora.com
 DOMAIN-SUFFIX,pylon.micstatic.com
 DOMAIN-SUFFIX,pzapi-ij.com
+DOMAIN-SUFFIX,pzapi-kg.com
 DOMAIN-SUFFIX,pzd.rakuten.co.jp
 DOMAIN-SUFFIX,pzimff.com
 DOMAIN-SUFFIX,pzscub.prestiter.it
@@ -11138,6 +11151,7 @@ DOMAIN-SUFFIX,sp.thestarpress.com
 DOMAIN-SUFFIX,sp.thetimesherald.com
 DOMAIN-SUFFIX,sp.thetowntalk.com
 DOMAIN-SUFFIX,sp.timesrecordnews.com
+DOMAIN-SUFFIX,sp.tinymce.com
 DOMAIN-SUFFIX,sp.usatoday.com
 DOMAIN-SUFFIX,sp.vcstar.com
 DOMAIN-SUFFIX,sp.visaliatimesdelta.com
@@ -12300,6 +12314,7 @@ DOMAIN-SUFFIX,t.wayfair.com
 DOMAIN-SUFFIX,t.wayfair.de
 DOMAIN-SUFFIX,t.wiz.meilleurtaux.com
 DOMAIN-SUFFIX,t.y8.com
+DOMAIN-SUFFIX,t.zulily.com
 DOMAIN-SUFFIX,t0y.toyota.ca
 DOMAIN-SUFFIX,t1.benefits.tops.co.th
 DOMAIN-SUFFIX,t1.discover.flashnews.com.au
@@ -12326,6 +12341,7 @@ DOMAIN-SUFFIX,tag.elevaate.io
 DOMAIN-SUFFIX,tag.flagship.io
 DOMAIN-SUFFIX,tag.goldenbees.fr
 DOMAIN-SUFFIX,tag.leadplace.fr
+DOMAIN-SUFFIX,tag.lexer.io
 DOMAIN-SUFFIX,tag.mtrcs.samba.tv
 DOMAIN-SUFFIX,tag.myplay.com
 DOMAIN-SUFFIX,tag.rightmessage.com
@@ -13504,6 +13520,7 @@ DOMAIN-SUFFIX,tracker.nbcuas.com
 DOMAIN-SUFFIX,tracker.nitropay.com
 DOMAIN-SUFFIX,tracker.providence.org
 DOMAIN-SUFFIX,tracker.publico.pt
+DOMAIN-SUFFIX,tracker.ranker.com
 DOMAIN-SUFFIX,tracker.roitesting.com
 DOMAIN-SUFFIX,tracker.services.vaix.ai
 DOMAIN-SUFFIX,tracker.shopclues.com
@@ -13525,6 +13542,7 @@ DOMAIN-SUFFIX,tracker.winload.de
 DOMAIN-SUFFIX,tracker.wpserveur.net
 DOMAIN-SUFFIX,tracker.xgen.dev
 DOMAIN-SUFFIX,trackerapi.truste.com
+DOMAIN-SUFFIX,tracking-api-4lasu2nlcq-ew.a.run.app
 DOMAIN-SUFFIX,tracking-driver.staging.goshare.co
 DOMAIN-SUFFIX,tracking-explore.agilent.com
 DOMAIN-SUFFIX,tracking-secure.csob.cz
@@ -13721,6 +13739,7 @@ DOMAIN-SUFFIX,trapteaching.com
 DOMAIN-SUFFIX,travel.caradonna.com
 DOMAIN-SUFFIX,travel.onlinevacationcenter.com
 DOMAIN-SUFFIX,travelmarketreport.actonservice.com
+DOMAIN-SUFFIX,trc.gpcdn.pl
 DOMAIN-SUFFIX,trc.pushnami.com
 DOMAIN-SUFFIX,trck.aeon.co.jp
 DOMAIN-SUFFIX,trck.bdi-services.de
@@ -13766,7 +13785,6 @@ DOMAIN-SUFFIX,tru.am
 DOMAIN-SUFFIX,tru.webelapp.com
 DOMAIN-SUFFIX,truckstomatoes.com
 DOMAIN-SUFFIX,truffle.bid
-DOMAIN-SUFFIX,trust-provider.com
 DOMAIN-SUFFIX,trust.mitutoyo.com
 DOMAIN-SUFFIX,trust.titanhq.com
 DOMAIN-SUFFIX,trusted-web-seal.cybertrust.ne.jp
