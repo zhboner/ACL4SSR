@@ -1,7 +1,7 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2023-01-15 22:02:24
+# 更新：2023-01-15 22:06:27
 # 数量：14909条
 
 DOMAIN-SUFFIX,0-owazo4.net.zooplus.de
