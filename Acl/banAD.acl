@@ -51,7 +51,6 @@
 (^|\.)\w*socdm\w*\.\w*$
 (^|\.)\w*supersonicads\w*\.\w*$
 (^|\.)\w*tracking\w*\.\w*$
-(^|\.)\w*usage\w*\.\w*$
 (^|\.)\w*wlmonitor\w*\.\w*$
 (^|\.)\w*zjtoolbar\w*\.\w*$
 (^|\.)ad\d{0,3}\..*$
@@ -168,7 +167,6 @@
 (^|\.)baidu9635\.com$
 (^|\.)baidustatic\.com$
 (^|\.)baidutv\.baidu\.com$
-(^|\.)baikebcs\.bdimg\.com$
 (^|\.)banlv\.baidu\.com$
 (^|\.)bar\.baidu\.com$
 (^|\.)bdplus\.baidu\.com$
@@ -8813,7 +8811,6 @@
 ^.*\.sg$
 ^.*\.tw$
 ^.*\.uk$
-^.*\.us$
 
 # 国外域名关键字
 (^|\.)\w*1e100\w*\.\w*$
