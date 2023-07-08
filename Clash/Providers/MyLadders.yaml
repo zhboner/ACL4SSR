@@ -1,0 +1,5 @@
+payload:
+  # wiki jp v6
+  - "2a12:f8c1:56:6a5::1/64"
+
+  - DOMAIN-SUFFIX,zhb.me
