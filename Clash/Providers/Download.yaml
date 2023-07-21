@@ -1,15 +1,15 @@
 payload:
   # Mac Download
-  # PROCESS-NAME,aria2c.exe
-  # PROCESS-NAME,fdm.exe
-  # PROCESS-NAME,Folx.exe
-  # PROCESS-NAME,NetTransport.exe
-  # PROCESS-NAME,Thunder.exe
-  # PROCESS-NAME,Transmission.exe
-  # PROCESS-NAME,uTorrent.exe
-  # PROCESS-NAME,WebTorrent.exe
-  # PROCESS-NAME,WebTorrent Helper.exe
-  # PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,Folx.exe
+  - PROCESS-NAME,NetTransport.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,Transmission.exe
+  - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,WebTorrent.exe
+  - PROCESS-NAME,WebTorrent Helper.exe
+  - PROCESS-NAME,qbittorrent.exe
   # bt
   - DOMAIN-SUFFIX,smtp
   - DOMAIN-KEYWORD,aria2
