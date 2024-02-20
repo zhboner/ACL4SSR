@@ -32,3 +32,6 @@ build/
 
 ### VS Studio ###
 .vs/
+
+### Mac finder ###
+.DS_Store
